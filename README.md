@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3A15DA&width=460&lines=Ol%C3%A1%2C+sou+o+Bruno+Costa+dos+Santos;)](https://git.io/typing-svg)
 
-## Github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bcosta17&theme=transparent&bg_color=000&border_color=3A15DAFF&show_icons=true&icon_color=3A15DA&title_color=3A15DAFF&text_color=FFF)
 
 ## Tecnologias que possuo conhecimento
